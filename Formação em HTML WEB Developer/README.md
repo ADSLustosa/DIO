@@ -7,7 +7,6 @@
   Neste repositório, você encontrará todos os códigos dos desafios propostos na plataforma de estudos **_DIO_**. 📚💻
 
 
-
 ## 📂 Conteúdo 📂
 
   Abaixo estão listados os desafios e suas respectivas descrições:
