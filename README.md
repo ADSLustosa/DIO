@@ -4,7 +4,7 @@ Claro! Aqui está um exemplo de README atrativo para um repositório de armazena
 
 # 🚀 DIO Study Materials and Challenges Repository
 
-Bem-vindo ao meu repositório de materiais de estudo e desafios da (DIO)[https://www.dio.me]! Este repositório é um compilado de todos os projetos e desafios fiz ao longo da minha jornada na plataforma DIO. Sinta-se à vontade para explorar.
+Bem-vindo ao meu repositório de materiais de estudo e desafios da [DIO](https://www.dio.me)! Este repositório é um compilado de todos os projetos e desafios fiz ao longo da minha jornada na plataforma DIO. Sinta-se à vontade para explorar.
 
 ## 📚 Conteúdos
 
