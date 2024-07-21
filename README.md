@@ -21,7 +21,7 @@ Aqui você encontrará:
 
 ## 👨‍💻 Sobre Mim
 
-Sou estudante da _[Universidade Presbiteriana Mackenize](https://www.mackenzie.br)_, do curso de Análise e Desenvolvimento de Sistemas com previsão de formação em dezembro de 2025, buscando especializar-me na área de Machine Learning, fazendo cursos relacionados à área através da plataforma de ensino (DIO)[https://www.dio.me/users/asdlustosa], na qual possuo alguns certificados. Busco iniciar minha carreira profissional e pôr em prática todo o aprendizado conquistado até o presente momento. Além de estudante, atuo no setor imobiliário como Corretor, mas também sempre buscando atualizar-me com estudos e certificados. Uma mente produtiva tem a vida prolongada.
+Sou estudante da _[Universidade Presbiteriana Mackenize](https://www.mackenzie.br)_, do curso de Análise e Desenvolvimento de Sistemas com previsão de formação em dezembro de 2025, buscando especializar-me na área de Machine Learning, fazendo cursos relacionados à área através da plataforma de ensino [DIO](https://www.dio.me/users/asdlustosa), na qual possuo alguns certificados. Busco iniciar minha carreira profissional e pôr em prática todo o aprendizado conquistado até o presente momento. Além de estudante, atuo no setor imobiliário como Corretor, mas também sempre buscando atualizar-me com estudos e certificados. Uma mente produtiva tem a vida prolongada.
 
 
 
