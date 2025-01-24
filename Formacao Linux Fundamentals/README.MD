@@ -1,8 +1,8 @@
-# 🚀 FUNDAMENTOS LINUX - DIO (Digital Innovation One)
+# 🚀 Formação Linux Fundamentals - DIO (Digital Innovation One)
 
 ## 🎉 Bem-vindo(a)! 🎉
 
-  Seja bem-vindo ao meu repositório de **Fundamentos Linux** do curso da [DIO (Digital Innovation One)](https://www.dio.me)!
+  Seja bem-vindo ao meu repositório **Formação Linux Fundamentals** do curso da [DIO (Digital Innovation One)](https://www.dio.me)!
 
   Neste repositório, você encontrará todos os códigos dos desafios propostos na plataforma de estudos **_DIO_** e os certificados de conclusão dos módulos e do curso. 💻📚📜
 

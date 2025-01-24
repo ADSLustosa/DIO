@@ -2,7 +2,7 @@
 
 ## 🎉 Bem-vindo(a)! 🎉
 
-  Seja bem-vindo ao meu repositório de **Desafios de Lógica de Programação** do curso da [DIO (Digital Innovation One)](https://www.dio.me)!
+  Seja bem-vindo ao meu repositório **Desafios de Lógica de Programação** do curso da [DIO (Digital Innovation One)](https://www.dio.me)!
 
   Neste repositório, você encontrará todos os códigos dos desafios propostos na plataforma de estudos **_DIO_**. 📚💻
 

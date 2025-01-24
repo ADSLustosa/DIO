@@ -2,7 +2,7 @@
 
 ## 🎉 Bem-vindo(a)! 🎉
 
-  Seja bem-vindo ao meu repositório de **Formação em HTML WEB Developer** do curso da [DIO (Digital Innovation One)](https://www.dio.me)!
+  Seja bem-vindo ao meu repositório **Formação em HTML WEB Developer** do curso da [DIO (Digital Innovation One)](https://www.dio.me)!
 
   Neste repositório, você encontrará todos os códigos dos desafios propostos na plataforma de estudos **_DIO_**. 📚💻
 
