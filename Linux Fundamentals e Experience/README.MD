@@ -15,7 +15,7 @@
 ## 📝 Projeto 2: Infraestrutura como Código - Script de Provisionamento de um Servidor Web (Apache) 📝
   Neste projeto iremos criar um script onde será provisionado um servidor web automaticamente. Um servidor web é um software e hardware que usa HTTP (Hypertext Transfer Protocol) e outros protocolos para responder a solicitações de clientes feitas pela World Wide Web. O principal trabalho de um servidor da web é exibir o conteúdo do site por meio do armazenamento, processamento e entrega de páginas da web aos usuários.
 
-## Projeto 3: Docker: Utilização Prática no Cenário de Microsserviços💻☁️
+## 📝 Projeto 3: Docker: Utilização Prática no Cenário de Microsserviços 📝
   Neste desafio, você deverá replicar (e porque não, melhorar) este projeto prático, criando um repositório próprio e, com isso, aumentando ainda mais seu portfólio de projetos no GitHub! Para isso, inspire-se na história de TOSHIRO SHIBAKITA e vamos evoluir com a ajuda da Nuvem
 
 ### 🛠️ Tecnologias Utilizadas 🛠️
