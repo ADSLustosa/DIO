@@ -8,10 +8,10 @@ PI = 3.14159
 dados = {"nome": "Guilherme", "idade": 28}
 
 
-# FORMATAÇÃO UTILIZANDO "%; ()".
+# FORMATAÇÃO UTILIZANDO "%; ()" MÉTODO ANTIGO.
 print("Olá, me chamo %s! Eu tenho %d anos de idade, trabalho como %s e estou matriculado no curso de %s." % (nome, idade, profissao, linguagem))
 
-# FORMATAÇÃO UTILIZANDO "f; {}"
+# FORMATAÇÃO UTILIZANDO "f; {}" MÉTODO ATUAL.
 print (f"Olá, me chamo {nome}! Eu tenho {idade} anos de idade, trabalho como {profissao} e estou matriculado no curso de {linguagem}. ")
 
 # FORMATAÇÃO DE DECIMAIS
