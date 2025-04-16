@@ -51,5 +51,5 @@
 
 
 
-<div align="center"> ## ✨ Obrigado pela visita! Volte sempre. ✨ </div>
+<div align="center"> ✨ Obrigado pela visita! Volte sempre. ✨ </div>
 
