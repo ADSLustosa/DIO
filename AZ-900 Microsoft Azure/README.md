@@ -1,4 +1,4 @@
-# 🚀 Desafios de Lógica de Programação - DIO (Digital Innovation One)
+# 🚀 AZ-900 MICROSOFT AZURE - DIO (Digital Innovation One)
 
 ## 🎉 Bem-vindo(a)! 🎉
 
